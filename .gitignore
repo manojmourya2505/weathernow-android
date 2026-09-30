@@ -1,0 +1,37 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.aab
+
+# Android Studio
+/app/build
+/app/release
+/app/debug
+*.hprof
+
+# Gradle
+.gradle
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kotlin compiler daemon / Kotlin Gradle plugin cache
+.kotlin/
+
+# Keystore
+*.jks
+*.keystore
+

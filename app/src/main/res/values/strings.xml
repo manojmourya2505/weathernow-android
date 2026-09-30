@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">WeatherNow</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_saved">Saved</string>
+
+    <!-- Home -->
+    <string name="home_no_city_title">No city selected</string>
+    <string name="home_no_city_message">Search for a city and add it to your favorites to see its weather here.</string>
+    <string name="home_search_cta">Search for a city</string>
+    <string name="home_feels_like">Feels like %1$s</string>
+    <string name="home_humidity">Humidity</string>
+    <string name="home_wind">Wind</string>
+    <string name="home_hourly_forecast">Hourly forecast</string>
+    <string name="home_daily_forecast">7-day forecast</string>
+
+    <!-- Search -->
+    <string name="search_placeholder">Search for a city…</string>
+    <string name="search_empty_prompt">Search for a city by name to get started.</string>
+    <string name="search_no_results">No cities found. Try a different search.</string>
+
+    <!-- Saved -->
+    <string name="saved_title">Saved cities</string>
+    <string name="saved_empty_title">No saved cities yet</string>
+    <string name="saved_empty_message">Cities you add from search will show up here.</string>
+    <string name="saved_delete_action">Delete</string>
+    <string name="saved_current_badge">Current</string>
+
+    <!-- Detail -->
+    <string name="detail_add_favorite">Add to Favorites</string>
+    <string name="detail_remove_favorite">Remove from Favorites</string>
+    <string name="detail_set_as_home">Set as Home City</string>
+    <string name="detail_already_home">This is your home city</string>
+
+    <!-- Common -->
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_network">No internet connection. Please check your network and try again.</string>
+    <string name="action_retry">Retry</string>
+    <string name="content_description_back">Back</string>
+    <string name="content_description_weather_icon">Weather icon</string>
+</resources>
